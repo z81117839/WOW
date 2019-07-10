@@ -1,0 +1,68 @@
+body {
+  font-family: "微软雅黑";
+  background: #f5e8cb;
+  font-size: 14px;
+}
+p {
+  margin: 0;
+  font-size: 12px;
+  line-height: 20px;
+}
+.mainTitle {
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  border-bottom: 1px solid #aaa;
+}
+h4 {
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px;
+  margin: 10px;
+}
+.bgFrame {
+  border: 1px solid #e6e1d3;
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #f9f3e3;
+}
+.titleI {
+  font-weight: bold;
+  margin: 10px 10px 5px 10px;
+  padding-left: 10px;
+  border-left: 5px solid #cc9418;
+}
+.pI {
+  padding-left: 25px;
+}
+.titleII {
+  font-weight: bold;
+  margin: 15px 10px 5px 25px;
+  padding-left: 10px;
+  border-left: 5px solid #e9dbbd;
+}
+.pII {
+  padding-left: 40px;
+}
+.titleIII {
+  font-weight: bold;
+  margin: 5px 10px 5px 40px;
+}
+.pIII {
+  padding-left: 50px;
+}
+.mark {
+  color: #428bca;
+}
+.mark.forI {
+  margin-left: 25px;
+}
+.mark.forII {
+  margin-left: 40px;
+}
+.mark.forIII {
+  margin-left: 50px;
+}
